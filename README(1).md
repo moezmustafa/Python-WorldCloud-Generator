@@ -50,3 +50,6 @@ uninteresting words .
 
 ## Example Result :
 The following is a WordCLoud based on the "Blinding Lights" song lyrics.
+
+![](images/wordcloud(1).png)
+![](images/wordcloud.png)
